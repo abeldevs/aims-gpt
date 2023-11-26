@@ -22,7 +22,6 @@ If you want to fine-tune the model on your own dataset or further improve it, fo
 
 1. **Clone Repository:**
    ```bash
-   git clone https://github.com/your-username/aims-gpt-fine-tuned.git
-   cd aims-gpt-fine-tuned
-
+   git clone https://github.com/abeldevs/aims-gpt.git
+   
 2. **Other details soon**
