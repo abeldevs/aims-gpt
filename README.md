@@ -1,8 +1,6 @@
 # AIMS chatbot
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 
-# AIMS-GPT Fine-Tuned Model
-
 ## Overview
 
 This repository contains a fine-tuned version of the Llama language model for AIMS (African Institute for Mathematical Sciences) Institute. The model has been trained on domain-specific data to enhance its performance and understanding of topics relevant to the AIMS community.
@@ -26,3 +24,5 @@ If you want to fine-tune the model on your own dataset or further improve it, fo
    ```bash
    git clone https://github.com/your-username/aims-gpt-fine-tuned.git
    cd aims-gpt-fine-tuned
+
+2. **Other details soon**
