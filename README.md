@@ -1,4 +1,4 @@
-<img src="/docs/images.jpeg" alt="Alt text" title="Optional title">
+<center><img src="/docs/images.jpeg" alt="Alt text" title="Optional title"></center>center>
 
 # AIMS chatbot
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
